@@ -96,6 +96,6 @@ pandas
 ├── training/              # Training loops
 ├── utils/                 # Other helper functions
 ├── weights/               # Saved model's weights
-├── evaluation/            # Metrics
-├── README.md
+├── main.py                # Pipeline to train and evaluate model
+
 ```
