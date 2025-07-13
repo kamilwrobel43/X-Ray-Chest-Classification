@@ -59,6 +59,8 @@ This project focuses on classifying chest X-ray images into four classes: **COVI
 | ResNet18     | Yes           | No           | 0.86     |
 | ResNet18     | No            | Yes          | 0.90     |
 
+**Note**: All metrics and plots you can find in `notebooks/results.ipynb`
+
 ---
 
 ## 🏁 Conclusion
