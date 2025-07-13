@@ -1,6 +1,6 @@
 # Chest X-ray Classification (COVID-19, Pneumonia, Lung Opacity, Normal)
 
-This project focuses on classifying chest X-ray images into four classes: **COVID-19**, **Viral Pneumonia**, **Lung Opacity**, and **Normal**. It explores deep learning techniques under the challenges of medical image classification and class imbalance.
+This project focuses on classifying chest X-ray images into four classes: **COVID-19**, **Viral Pneumonia**, **Lung Opacity**, and **Normal**. It explores deep learning techniques like CNN and Transfer Learning under the challenges of medical image classification and class imbalance.
 
 ---
 
