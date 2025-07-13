@@ -89,12 +89,13 @@ pandas
 
 ```
 ├── models/                # CNN baseline architecture + save/load model functions
-├── training/              # Training loops
-├── evaluation/            # Metrics
 ├── notebooks/             # Training and results with visualizations
 ├── outputs/               # Saved curves and confusion matrix as .png files
 ├── preprocessing/         # Creating DataLoaders, Data Augmentation, Class Imbalance Strategies functions
 ├── results/               # Evaluation + Visualizations functions
+├── training/              # Training loops
 ├── utils/                 # Other helper functions
+├── weights/               # Saved model's weights
+├── evaluation/            # Metrics
 ├── README.md
 ```
